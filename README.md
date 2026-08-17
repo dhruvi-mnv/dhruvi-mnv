@@ -1,11 +1,5 @@
 <div align="center">
 
-# DHRUVI JARIWALA
-
-### Software Developer · Backend • Cloud • AI
-
-Building practical software through clean code, scalable systems, and continuous learning.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=DHRUVI%20JARIWALA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+%2B+Cloud+%2B+AI+Developer;Turning+ideas+into+practical+software;Java+%7C+Spring+Boot+%7C+Angular+%7C+Python" alt="Typing SVG" />

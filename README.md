@@ -68,7 +68,7 @@ A full-stack marketplace application built using a microservices architecture, c
 - H2 database integration
 - End-to-end full-stack workflow
 
-[View Repository →]([YOUR_BAKERY_MARKETPLACE_REPO_URL](https://github.com/dhruvi-mnv/bakery-marketplace.git))
+[View Repository →](https://github.com/dhruvi-mnv/bakery-marketplace.git)
 
 <br>
 
@@ -81,7 +81,7 @@ A Spring Boot web application for concert ticket booking, built using MVC archit
 - Server-side rendering via Thymeleaf
 - Form validation and database-driven workflows
 
-[View Repository →]([YOUR_EVENT_MANAGEMENT_REPO_URL](https://github.com/dhruvi-mnv/Event-Management-System.git))
+[View Repository →](https://github.com/dhruvi-mnv/Event-Management-System.git)
 
 <br>
 
@@ -94,7 +94,7 @@ A C# WPF desktop application demonstrating OOP concepts through vehicle manageme
 - Interactive WPF desktop UI
 - Vehicle management workflows
 
-[View Repository →]([YOUR_AUTOTRACK_REPO_URL](https://github.com/dhruvi-mnv/AutoTrack.git))
+[View Repository →](https://github.com/dhruvi-mnv/AutoTrack.git)
 
 <br>
 
@@ -107,7 +107,7 @@ A machine learning project using Logistic Regression to predict heart disease ba
 - Missing-value handling
 - Logistic Regression model evaluation
 
-[View Repository →]([YOUR_HEART_DISEASE_REPO_URL](https://github.com/dhruvi-mnv/Heart-Disease-Prediction-ML.git))
+[View Repository →](https://github.com/dhruvi-mnv/Heart-Disease-Prediction-ML.git)
 
 <br>
 
@@ -120,7 +120,7 @@ A C++ space rescue game featuring a player-controlled spacecraft, obstacles, res
 - Mission tracking and HUD design
 - Interactive game mechanics in C++
 
-[View Repository →]([YOUR_BLACKSPACE_REPO_URL](https://github.com/dhruvi-mnv/BlackSpace.git))
+[View Repository →](https://github.com/dhruvi-mnv/BlackSpace.git)
 
 <div align="center">
 

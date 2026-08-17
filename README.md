@@ -39,19 +39,49 @@ My approach is simple:
 
 **Languages**
 
-<p> <img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/> <img title="Python" src="https://skillicons.dev/icons?i=python" height="50"/> <img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/> <img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/> <img title="C" src="https://skillicons.dev/icons?i=c" height="50"/> <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/> <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="50"/> <img title="Bash" src="https://skillicons.dev/icons?i=bash" height="50"/> </p>
+<p> 
+    <img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/> 
+    <img title="Python"     src="https://skillicons.dev/icons?i=python" height="50"/> 
+    <img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/> 
+    <img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/> 
+    <img title="C" src="https://skillicons.dev/icons?i=c" height="50"/> 
+    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/> 
+    <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="50"/> 
+    <img title="Bash" src="https://skillicons.dev/icons?i=bash" height="50"/> 
+</p>
 
 **Frameworks & Development**
 
-<p><img src="https://skillicons.dev/icons?i=spring,angular,dotnet,html,css,nodejs" /></p>
+<p> 
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" height="50"/> 
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="50"/> 
+  <img title=".NET" src="https://skillicons.dev/icons?i=dotnet" height="50"/> 
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" height="50"/> 
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" height="50"/> 
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="50"/> 
+</p>
 
 **Cloud, DevOps & Tools**
 
-<p><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,maven,postman" /></p>
+<p> 
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws" height="50"/> 
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="50"/> 
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" height="50"/> 
+  <img title="Git" src="https://skillicons.dev/icons?i=git" height="50"/> 
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" height="50"/> 
+  <img title="Maven" src="https://skillicons.dev/icons?i=maven" height="50"/> 
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" height="50"/> 
+</p>
 
 **Data & AI**
 
-<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
+<p> 
+  <img title="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
+  <img title="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+  <img title="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> 
+  <img title="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> 
+  <img title="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> 
+</p>
 
 ---
 

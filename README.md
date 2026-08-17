@@ -10,8 +10,6 @@
 [![Resume](https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/dhruvi-mnv/Resume/main/Dhruvi_Jariwala_Resume.pdf)
 [![Projects](https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvi-mnv?tab=repositories)
 
-<img src="https://komarev.com/ghpvc/?username=dhruvi-mnv&label=Profile%20Views&color=6C63FF&style=flat" />
-
 </div>
 
 ---

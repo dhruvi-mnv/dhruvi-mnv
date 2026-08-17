@@ -6,11 +6,17 @@
 
 Building practical software through clean code, scalable systems, and continuous learning.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=DHRUVI%20JARIWALA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+%2B+Cloud+%2B+AI+Developer;Turning+ideas+into+practical+software;Java+%7C+Spring+Boot+%7C+Angular+%7C+Python" alt="Typing SVG" />
+
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/))
-[![Resume](https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white)]([RESUME](https://raw.githubusercontent.com/dhruvi-mnv/Resume/main/Dhruvi_Jariwala_Resume.pdf))
-[![Projects](https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white)]([PROJECTS](https://github.com/dhruvi-mnv?tab=repositories))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/)
+[![Resume](https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/dhruvi-mnv/Resume/main/Dhruvi_Jariwala_Resume.pdf)
+[![Projects](https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvi-mnv?tab=repositories)
+
+<img src="https://komarev.com/ghpvc/?username=dhruvi-mnv&label=Profile%20Views&color=6C63FF&style=flat" />
 
 </div>
 
@@ -151,25 +157,11 @@ A C++ space rescue game featuring a player-controlled spacecraft, obstacles, res
 
 ---
 
-## `> github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvi-mnv&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi-mnv&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 **Let's build something meaningful.**
 
-[LinkedIn]([LINKEDIN](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/)) &nbsp;•&nbsp; [Projects](https://github.com/dhruvi-mnv?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/) &nbsp;•&nbsp; [Projects](https://github.com/dhruvi-mnv?tab=repositories)
 
 <br><br>
 

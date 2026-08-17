@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+%2B+Cloud+%2B+AI+Developer;Turning+ideas+into+practical+software;Java+%7C+Spring+Boot+%7C+Angular+%7C+Python" alt="Typing SVG" />
 
 <br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-jariwala-53b9a828b/)
 [![Resume](https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/dhruvi-mnv/Resume/main/Dhruvi_Jariwala_Resume.pdf)
 [![Projects](https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvi-mnv?tab=repositories)

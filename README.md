@@ -39,7 +39,7 @@ My approach is simple:
 
 **Languages**
 
-<p><img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,ts,bash" /></p>
+<p> <img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/> <img title="Python" src="https://skillicons.dev/icons?i=python" height="50"/> <img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/> <img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/> <img title="C" src="https://skillicons.dev/icons?i=c" height="50"/> <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/> <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="50"/> <img title="Bash" src="https://skillicons.dev/icons?i=bash" height="50"/> </p>
 
 **Frameworks & Development**
 
